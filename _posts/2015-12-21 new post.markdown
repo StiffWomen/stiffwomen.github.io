@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Comics"
-date:   1930-01-13 01:00:00
-date:   1930-01-13 01:00:00
-excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+title:  "Edith Cavell"
+date:   2015-12-26 21:29:00
+date:   2015-12-26 21:29:00
+excerpt: "Edith Cavell..."
 categories: history
-tags:  mickey
+tags:  world war II
 image:
-  feature: mickey-comics.jpg
+  feature: edith-cavell.JPG
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

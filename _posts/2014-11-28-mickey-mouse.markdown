@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Mickey Mouse"
+title:  "Edith Cavell"
 date:   2014-11-28 01:00:00
 last_modified_at:  2014-11-28 01:00:00
 excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
 categories: history
 tags:  mickey
 image:
-  feature: mickey-mouse.jpg
+  feature: edith-cavell.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
