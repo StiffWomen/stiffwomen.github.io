@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heroes of World Wars"
+title:  "World War heroines"
 date:   2015-12-26 21:29:00
 date:   2015-12-26 21:29:00
 excerpt: "Edith Cavell..."
@@ -13,6 +13,14 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+
+Although the world wars are often promoted as having provided an important opportunity for women to step outside the households and gain entry into working life - thus paving the way for standing on more equal footing with men - women's role in the world wars are more like extras in a movie - there, but not quite.
+
+They are the things that they have lived in - not themselves, symbols of every women - not individuals. There, but not quite.
+
+--Enter pic of women in the war --
+
+There are however two important women from the war in London. Edith Cavell and Noor Nayat Khan. 
 
 ### Edith Cavell
 
