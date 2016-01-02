@@ -9,6 +9,7 @@ tags:  world war II
 image:
   feature: edith-cavell.JPG
   topPosition: -100px
+  thumbnailPosition: top
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

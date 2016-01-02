@@ -9,6 +9,7 @@ tags:  statisticians
 image:
   feature: florence-nightingale.jpg
   topPosition: 0px
+  thumbnailPosition: bottom
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
