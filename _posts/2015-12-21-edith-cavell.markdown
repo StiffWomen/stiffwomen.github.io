@@ -10,6 +10,7 @@ image:
   feature: edith-cavell.JPG
   topPosition: -100px
   thumbnailPosition: top
+  sidebarPosition: top
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

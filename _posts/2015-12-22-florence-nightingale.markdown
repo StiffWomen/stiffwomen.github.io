@@ -10,6 +10,7 @@ image:
   feature: florence-nightingale.jpg
   topPosition: 0px
   thumbnailPosition: bottom
+  sidebarPosition: center
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
