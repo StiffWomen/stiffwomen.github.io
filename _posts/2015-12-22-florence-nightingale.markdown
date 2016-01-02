@@ -8,7 +8,9 @@ categories: history
 tags:  statisticians
 image:
   feature: florence-nightingale.jpg
-  topPosition: 0px
+  topPosition: -550px
+  thumbnailPosition: bottom
+  sidebarPosition: center
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

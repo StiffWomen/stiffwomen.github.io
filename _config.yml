@@ -21,30 +21,24 @@ baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Ellen Kendall
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
-
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+  url:            	 stiffwomen.github.io
 
 # Server
 destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "haml"]
 port:             	 9001
 
 sass:
-  sass_dir: _scss
+  sass_dir: _sass
+
+mini_magick:
+  thumbnail:
+    source: assets/images/hero
+    destination: assets/images/thumbnail
+    resize: '350x234'
 
 defaults:
   -
