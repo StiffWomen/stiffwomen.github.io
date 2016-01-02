@@ -44,7 +44,7 @@ exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json
 port:             	 9001
 
 sass:
-  sass_dir: _scss
+  sass_dir: _sass
 
 defaults:
   -
